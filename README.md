@@ -93,6 +93,12 @@ s3-rds-glue-app
 ### 🔁 Glue Fallback
 ![Glue Table](glue_table.png)
 
+### 🔁 Glue Database
+![Glue Table](glue_database.png)
+
+### 🔁 S3 Bucket
+![Glue Table](s3_buket.png)
+
 ⚠️ Challenges & Solutions
 
 🔴 RDS Connection Timeout
