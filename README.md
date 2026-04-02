@@ -10,9 +10,10 @@ This project implements a fault-tolerant, Dockerized data ingestion pipeline tha
 ---
 
 ## 🏗️ Architecture
-
+```
 S3 → Python (Docker) → RDS  
                           ↘ (Failure) → Glue Catalog  
+```
 
 ---
 
@@ -30,6 +31,7 @@ S3 → Python (Docker) → RDS
 
 ## 📂 Project Structure
 
+```
 project-root/
 │
 ├── app.py
@@ -39,6 +41,7 @@ project-root/
 └── screenshots/
     ├── rds_output.png
     └── glue_table.png
+```
 
 ---
 
