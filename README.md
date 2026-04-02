@@ -85,6 +85,14 @@ s3-rds-glue-app
 ✅ Glue table created
 ```
 
+## 📸 Screenshots
+
+### ✅ RDS Output
+![RDS Output](rds_output.png)
+
+### 🔁 Glue Fallback
+![Glue Table](glue_table.png)
+
 ⚠️ Challenges & Solutions
 
 🔴 RDS Connection Timeout
